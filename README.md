@@ -68,7 +68,7 @@ Com base nos dados informados, o simulador realiza os seguintes cálculos e proj
 Este exemplo demonstra que, mesmo com aportes mensais relativamente modestos, a consistência e o direcionamento adequado conforme o perfil de risco podem gerar resultados expressivos no longo prazo. O simulador permite ao investidor visualizar esses cenários de forma personalizada, promovendo uma gestão estratégica de seus recursos.
 
 ---
->[!ATENÇÃO]
+>[!CAUTION]
 >**Nota:** Todos os valores são estimativas e não representam garantias de retorno. As decisões de investimento devem considerar também fatores externos como conjuntura econômica, variações de mercado e legislação vigente.
 
 ## 🏢 Tipos de Fundos Imobiliários
