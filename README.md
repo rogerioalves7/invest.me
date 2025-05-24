@@ -1,31 +1,3 @@
-💲 SIMULADOR DE INVESTIMENTOS 💲
-
-**🎯 OBJETIVOS:**
-
-O presente projeto tem como objetivo o desenvolvimento de um simulador de investimentos em fundos imobiliários. A finalidade do simulador é com base em dados, responder perguntas inerentes ao contexto dos investimentos, como:
-
-- Valor do investimento
-- Período do investimento
-- Taxa de juros
-- Patrimônio acumulado
-- Dividendos mensais
-- Cenários futuros possíveis
-- Perfil de investimento
-- Distribuição de investimentos
-
-**📚 METODOLOGIA:**
-
-O projeto foi desenvolvido utilizando a ferramenta Microsoft Excel, onde com o suporte das funcionalidades como a estrutura de tabelas, fórmulas, nomeação de células e intervalos, é possível combinar os dados fornecidos pelo usuário, gerando informações que agregam valor a operação de investimento e podem auxiliar o dia-a-dia de profissionais da área e até mesmo de investidores individuais.
-
-**🧱 ESTRUTURA:**
-
-A pasta de trabalho que compõe o projeto, possui duas planilhas, sendo uma principal de funcionamento do sistema e uma de apoio, com informações complementares que garante o correto funcionamento da planilha principal.
-
-- Sheet Invest.me:
-    Planilha principal com as seções de configuração, para preenchimento dos dados e tabelas que retornam as informações esperadas.
-- Sheet Apoio:
-    Planilha de apoio com a tabela que relaciona o perfil de investimento do usuário com a distribuição recomendada dos investimentos.
-
     # 💲 SIMULADOR DE INVESTIMENTOS IMOBILIÁRIOS 💲
 
 ## 🎯 Objetivo
