@@ -122,7 +122,6 @@ Investem em **empreendimentos hoteleiros**, com a receita atrelada à performanc
 - B3 – Bolsa de Valores do Brasil: [https://www.b3.com.br](https://www.b3.com.br)
 - CVM – Comissão de Valores Mobiliários: [https://www.gov.br/cvm](https://www.gov.br/cvm)
 - Clube FII: [https://www.clubefii.com.br](https://www.clubefii.com.br)
-- XP Investimentos – "Guia dos Fundos Imobiliários", 2023.
 - Suno Research – "Tipos de FIIs: conheça os principais e suas características", 2024.
 
 ## ⚠️ Limitações e Possíveis Expansões
